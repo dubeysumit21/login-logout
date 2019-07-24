@@ -10,7 +10,6 @@ import About from '../src/components/About/About';
 import Contacts from '../src/components/Contacts/Contacts';
 
 class App extends Component {
-
   render() {
     return (
       <div className="App">
